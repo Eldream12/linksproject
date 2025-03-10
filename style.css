@@ -60,3 +60,9 @@ button a {
 img {
   border-radius: 100px;
 }
+
+button:hover {
+  background-color: #818080b0;
+  color: #141414;
+  transition: 1s;
+}
